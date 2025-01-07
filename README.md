@@ -19,3 +19,9 @@ The official CDRF website, the Center for Documentation, Research and Training (
 ### [Dominantis Corporation](https://www.dominantiscorporation.com) (2024)
 
 The official Dominantis Corporation website, Dominantis Corporation is a company that develops and offers solutions based on the use of New Technologies.
+
+### [QuickOrderCI mobile app for etablishment managers](https://play.google.com/store/apps/details?id=com.dominantis.quickorderio) (2024)
+
+### [QuickOrderCI website for customers](https://quickorderci.dominantis.io) (2024)
+
+Connecting Customers, Gastronomic Areas and Menus, to facilitate the management of Orders / Reservations and maximise user satisfaction.
